@@ -165,8 +165,4 @@ class ContactManagerTest {
     public void tearDownAll() {
         System.out.println("Should be executed at the end of the Test");
     }
-
-    public void test() {
-        ArrayList<Object> objects = new ArrayList<>();
-    }
 }
